@@ -36,18 +36,23 @@ health for every time you drink water.
  N/A Package manager: npm, yarn, gradle, etc.
 
 5- N/A
+Team Goals-
+Osbaldo Bravo    – Wants to strengthen GitHub skills and help with testing and repo management.
+Carlos Martinez  –
+Anthony Jimenez  –
+Daniel Herrera   –
+Harut Kulakchian – 
  N/A Discuss what each one of you wants from this project. Do you want to learn a particular technology (Android, django, etc.)? Do you want to Design an app? Do you want to focus on a particular part of the technology stack (fronted,  backend, Design, database, IT, git, testing, etc.)?
 
 
 6- N/A
-Osbaldo Bravo    - Tester/Researcher/Repo Master/Helper
+Osbaldo Bravo    - Tester/Researcher/Repo Master/Helper/Project Manager
 Carlos Martinez  -
 Anthony Jimenez  -
 Daniel Herrera   -
 Harut Kulakchian -
 Select roles and designate responsibilities for all team members. Everyone on the team is expected to contribute to each part of the project. The assigned roles simply indicate how the work involved in various tasks might be distributed. Possible roles are:
 
-Project Manager: direct meetings
 Editor: collect, assemble, edit, and format data and wiki pages
 User Experience: takes on the user's perspective
 Database Developer
