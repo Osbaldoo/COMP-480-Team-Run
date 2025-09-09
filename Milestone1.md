@@ -61,7 +61,7 @@ Lead Architect
 Master of a specific technology: Android Studio, django, firebase, etc.
 Optimist, Pessimist, Analyst: advocate, challenge, analyze ideas.
 
-7- N/A
+7-
 GitHub Names-
 Osbaldo Bravo    - Osbaldoo
 Carlos Martinez  - carlosm959
@@ -69,7 +69,7 @@ Anthony Jimenez  - An7hony5252
 Daniel Herrera   - danielHerrera144
 Harut Kulakchian - HarutK-L
 
- N/A Files We Need To Add To Our GitHub-
+Files We Need To Add To Our GitHub-
 Form Teams 
 Presentation and Demo
 Proof Of Concept
@@ -82,13 +82,9 @@ Personas and User Stories
 Research
 
 
-8- N/A
- N/A Wiki Page
-Add a wiki page (or more) to your repo titled "Team Organization" and list there the decisions you made on the questions 2,3, and 4 above, along with any pother pertinent information for the team. Note that you will be turning in many of the early Milestones as wiki pages, so think about how you will organize your wiki.
+8-
+Wiki Page
+
 
 9- N/A
- N/A Add a page to your wiki titled "Project Description"-
-which should be kept updated as you make decisions about your project. It should contain these sections:
-Description: a short description of your project,
-Technologies: a list of the technologies you plan to use: frameworks, libraries, hosting services, etc.
-Client: your client's name and contact info, if you have one, otherwise just say "Startup."
+Add a page to your wiki titled "Project Description"-
