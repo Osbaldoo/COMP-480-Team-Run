@@ -8,8 +8,8 @@ Anthony Jimenez  anthony.jimenez.396@my.csun.edu
 Daniel Herrera      daniel.herrera.842@my.csun.edu
 Harut Kulakchian  harut.kulakchian.037@my.csun.edu
 
-2- N/A
- N/A Determine a time for team meetings that is agreeable to everyone on the team.
+2-
+Before or After Class Tuesday/Thursday 
 
 3-
 Chat Service-
@@ -84,5 +84,5 @@ Research
 Wiki Page
 
 
-9- N/A
+9-
 Add a page to your wiki titled "Project Description"-
