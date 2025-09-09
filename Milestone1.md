@@ -39,7 +39,7 @@ health for every time you drink water.
 Team Goals-
 Osbaldo Bravo    – Wants to strengthen GitHub skills and help with testing and repo management.
 Carlos Martinez  –
-Anthony Jimenez  –
+Anthony Jimenez  – Hope to also strengthen GitHub skills and learn about ios development and get an understanding of different languages not previously used yet. 
 Daniel Herrera   –
 Harut Kulakchian – 
  N/A Discuss what each one of you wants from this project. Do you want to learn a particular technology (Android, django, etc.)? Do you want to Design an app? Do you want to focus on a particular part of the technology stack (fronted,  backend, Design, database, IT, git, testing, etc.)?
@@ -48,7 +48,7 @@ Harut Kulakchian –
 6- N/A
 Osbaldo Bravo    - Tester/Researcher/Repo Master/Helper/Project Manager
 Carlos Martinez  -
-Anthony Jimenez  -
+Anthony Jimenez  - Tester/User Experience
 Daniel Herrera   -
 Harut Kulakchian -
 Select roles and designate responsibilities for all team members. Everyone on the team is expected to contribute to each part of the project. The assigned roles simply indicate how the work involved in various tasks might be distributed. Possible roles are:
