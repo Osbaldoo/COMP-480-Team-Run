@@ -33,7 +33,7 @@ health for every time you drink water.
  Backend: Java (SprintBoot)
  Database: postgresql
  Libraries: react-native-maps
- APIs you will access: Google Maps API?
+ APIs you will access: Google Maps API
  Package manager: Gradle
 
 5-
