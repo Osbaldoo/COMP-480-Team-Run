@@ -35,29 +35,21 @@ health for every time you drink water.
  APIs you will access: Google Maps API?
  Package manager: Gradle
 
-5- N/A
+5-
 Team Goals-
 Osbaldo Bravo    – Wants to strengthen GitHub skills and help with testing and repo management.
 Carlos Martinez  – Want to practice app development and learn about frontend frameworks
 Anthony Jimenez  – Hope to also strengthen GitHub skills and learn about ios development and get an understanding of different languages not previously used yet. 
 Daniel Herrera   – Wants to learn how to do backend programming as well as using different tools such as AI or different programming languages to expand their library.
 Harut Kulakchian – Wants learn application development and the tools used for it as well as wanting experience working in a team for a project.
- N/A Discuss what each one of you wants from this project. Do you want to learn a particular technology (Android, django, etc.)? Do you want to Design an app? Do you want to focus on a particular part of the technology stack (fronted,  backend, Design, database, IT, git, testing, etc.)?
 
 
-6- N/A
+6-
 Osbaldo Bravo    - Tester/Researcher/Repo Master/Helper/Project Manager
 Carlos Martinez  - Researcher/Database Developer
 Anthony Jimenez  - Tester/User Experience
 Daniel Herrera   - Frontend/Editor/User Experience
 Harut Kulakchian - Application Developer/Lead Architect 
-Select roles and designate responsibilities for all team members. Everyone on the team is expected to contribute to each part of the project. The assigned roles simply indicate how the work involved in various tasks might be distributed. Possible roles are:
-
-Editor: collect, assemble, edit, and format data and wiki pages
-User Experience: takes on the user's perspective
-Database Developer
-Master of a specific technology: Android Studio, django, firebase, etc.
-Optimist, Pessimist, Analyst: advocate, challenge, analyze ideas.
 
 7-
 GitHub Names-
@@ -66,18 +58,6 @@ Carlos Martinez  - carlosm959
 Anthony Jimenez  - An7hony5252
 Daniel Herrera   - danielHerrera144
 Harut Kulakchian - HarutK-L
-
-Files We Need To Add To Our GitHub-
-Form Teams 
-Presentation and Demo
-Proof Of Concept
-Source Control
-Architecture
-Requirements
-Detailed Design
-Rough Designs
-Personas and User Stories
-Research
 
 
 8-
