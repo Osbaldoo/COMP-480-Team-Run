@@ -32,8 +32,8 @@ health for every time you drink water.
  IDE: VScode
  Backend: postgresql
  Libraries: None
- APIs you will access: Google Maps API
- Package manager: Gradel
+ APIs you will access: Google Maps API?
+ Package manager: Gradle
 
 5- N/A
 Team Goals-
