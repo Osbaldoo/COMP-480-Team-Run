@@ -28,12 +28,12 @@ your RPG character will grow with you. We also want to add a water
 intake feature. For example it will probably give you a boost or extra 
 health for every time you drink water.
 
- N/A Platform: React native
- N/A IDE: VScode
- N/A Backend: postgresql
- N/A Libraries: None
- N/A APIs you will access: Google Maps API
- N/A Package manager: Gradel
+ Platform: React native
+ IDE: VScode
+ Backend: postgresql
+ Libraries: None
+ APIs you will access: Google Maps API
+ Package manager: Gradel
 
 5- N/A
 Team Goals-
