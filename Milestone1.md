@@ -15,7 +15,7 @@ Before or After Class Tuesday/Thursday
 Chat Service-
 Discord
 
-4- N/A
+4-
 Project Idea:  
 Workout RPG App
 
@@ -28,17 +28,17 @@ your RPG character will grow with you. We also want to add a water
 intake feature. For example it will probably give you a boost or extra 
 health for every time you drink water.
 
- N/A Platform: Android, django, iOS, react native, etc.
- N/A IDE: Xcode, WebStorm, VSCode, etc. Note that modern IDEs now have built-in methods for sharing your editor view with teammates: code togetherLinks to an external site., code with meLinks to an external site., etc.
- N/A Backend: firebase, postgresql, not needed, etc.
- N/A Libraries
- N/A APIs you will access
- N/A Package manager: npm, yarn, gradle, etc.
+ N/A Platform: React native
+ N/A IDE: VScode
+ N/A Backend: postgresql
+ N/A Libraries: None
+ N/A APIs you will access: Google Maps API
+ N/A Package manager: Gradel
 
 5- N/A
 Team Goals-
 Osbaldo Bravo    – Wants to strengthen GitHub skills and help with testing and repo management.
-Carlos Martinez  –
+Carlos Martinez  – Want to practice app development and learn about frontend frameworks
 Anthony Jimenez  – Hope to also strengthen GitHub skills and learn about ios development and get an understanding of different languages not previously used yet. 
 Daniel Herrera   –
 Harut Kulakchian – Wants learn application development and the tools used for it as well as wanting experience working in a team for a project.
@@ -47,7 +47,7 @@ Harut Kulakchian – Wants learn application development and the tools used for 
 
 6- N/A
 Osbaldo Bravo    - Tester/Researcher/Repo Master/Helper/Project Manager
-Carlos Martinez  -
+Carlos Martinez  - Researcher/Database Developer
 Anthony Jimenez  - Tester/User Experience
 Daniel Herrera   -
 Harut Kulakchian - Application Developer/Lead Architect 
