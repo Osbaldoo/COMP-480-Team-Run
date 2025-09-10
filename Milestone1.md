@@ -30,7 +30,8 @@ health for every time you drink water.
 
  Platform: React native
  IDE: VScode
- Backend: postgresql
+ Backend: Java (SprintBoot)
+ Database: postgresql
  Libraries: None
  APIs you will access: Google Maps API?
  Package manager: Gradle
